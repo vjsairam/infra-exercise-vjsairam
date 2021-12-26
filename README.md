@@ -21,8 +21,8 @@
   - Code - https://github.com/vjsairam/infra-exercise-vjsairam/tree/main/terraform-eks-cluster
 * Created a nodejs demo app and Dockerized it 
   - Points Covered - 2
-  - Code - https://github.com/vjsairam/infra-exercise-vjsairam/blob/main/radtac-nodejs-app/Dockerfile
+  - Code - https://github.com/vjsairam/infra-exercise-vjsairam/blob/main/nodejs-app/Dockerfile
 * Created a CodePipeline and deployed the app to EKS 
   - Points Covered - 1, 3, 5, 6
-  - Code - https://github.com/vjsairam/infra-exercise-vjsairam/tree/main/radtac-nodejs-app
+  - Code - https://github.com/vjsairam/infra-exercise-vjsairam/tree/main/nodejs-app
   - High Level Doc - https://github.com/vjsairam/infra-exercise-vjsairam/blob/main/Implementation%20Documentation.pdf
